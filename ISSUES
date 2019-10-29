@@ -1,0 +1,11 @@
+Common issues that can occur while assembling the Anycubic Photon 3D printer
+
+1. Print not sticking to the Build Plate 
+
+   Started with the levelling of Build Plate using the recommended paper method as in the manual. Unable to get the print( Cube design that came alng with the USB) and it just sticks to the bottom of the VAT.
+   
+   After some google searches, I found another Z axis leveling method called FLINT READ WAY. ( You can find this method in FLINT READ METHOD folder)
+   
+   While doing the Flint Read method another problem arose, the printer won’t let me lower the plate past a certain point. (Beep sound)
+   
+   I fixed it by dismantling the Build plate and adding 3 washers to each screws(4) that hold it together. This made it the build plate hit the bottom of the VAT without any interference.
