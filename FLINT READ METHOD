@@ -1,0 +1,11 @@
+Unlike the recommended method in the manual this method has 100% success rate.
+
+Steps:
+1. Tighten the Resin VAT
+2. Loosen the Build Plate
+3. Select TOOLS --> MOVE Z--> HOME
+4. Move the Build Plate till a slight contact is made with the Resin VAT using 1mm increment option
+5. If the Build Plate moves freely continue to lower it using 0.1mm increment option till the movement no longer occurs.
+6. Carefully tighten the Build Plate
+7. Once tightened, increase the Build Plate by 0.3mm.
+8. Go Back, Click --> Z=0 option to set your Z axis.
